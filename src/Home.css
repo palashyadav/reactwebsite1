@@ -1,0 +1,31 @@
+.intro{
+  
+    text-align: justify;
+    text-align-last: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0px 20px 0px 20px;
+    margin:5px ;
+}
+.card{
+    width: 300px;
+    height: auto;
+    border: 2px solid rgb(76, 75, 75);
+    margin: 10px;
+    display: block;
+    text-align: center;
+    margin-left: 55px;
+    box-shadow: 66px;
+
+}
+.body{
+   
+    display: flex;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
